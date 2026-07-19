@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: E.G.Philippov's website
+subtitle: А здесь будем постепенно ваять нетленку.
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+See the [Quartz documentation](https://quartz.jzhao.xyz).
