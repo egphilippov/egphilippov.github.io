@@ -5,7 +5,6 @@ title: E.G.Philippov's website (knowledge vault)
 А здесь будем постепенно ваять нетленку.
 
 ```
-├── Music
 ├── Essays
 ├── Science
 ├── Archive
@@ -44,13 +43,6 @@ science/
 philosophy/
 engineering/
 music/
-/
-├── Projects
-│   ├── Tamarisk
-│   ├── ProgressAction
-│   ├── BOS
-│   └── PostBostromStack
-│
 ├── Science
 ├── Mathematics
 ├── Philosophy
@@ -66,7 +58,7 @@ START_HERE.md
 В нем буквально:
 
 что такое Tamarisk;
-что такое BOS;
+что такое BOS (Biosphere OS);
 что такое ProgressAction;
 как связаны проекты;
 ссылки на остальные документы.
@@ -79,10 +71,11 @@ Manifesto.md
 Roadmap.md
 OpenProblems.md
 HowToContinue.md
+```
+
 Последний файл — HowToContinue.md — может оказаться самым ценным. В нем можно описать, какие научные вопросы еще не решены, какие гипотезы требуют проверки, какие идеи кажутся перспективными и с чего начать новому участнику.
 
 Такой подход превращает репозиторий не просто в архив, а в проект, который потенциально может продолжить кто-то другой.
-```
 
 [[Music]]
 
