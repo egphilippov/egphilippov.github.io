@@ -1,3 +1,5 @@
+<a target="_blank" href="InfiniteViability.png"><img src="InfiniteViability.png" width="100%"></a>
+
 # Tamarisk Project
 
 Проект исследования возможности бесконечно долгоживущих
