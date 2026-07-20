@@ -23,6 +23,7 @@ Universe
 - [[ProgressAction]] &mdash; XXI-century time scale bio-survival (mesa level)
 - [[BiosphereOS]] &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
 - [[PostBostromStack]] &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by N Bostrom
+- [[GoodWorlds]] &mdash; on kind civilization
 
 ```
 Math
@@ -81,6 +82,8 @@ HowToContinue.md
 Последний файл — HowToContinue.md — может оказаться самым ценным. В нем можно описать, какие научные вопросы еще не решены, какие гипотезы требуют проверки, какие идеи кажутся перспективными и с чего начать новому участнику.
 
 Такой подход превращает репозиторий не просто в архив, а в проект, который потенциально может продолжить кто-то другой.
+
+## Music
 
 [[Music]]
 
