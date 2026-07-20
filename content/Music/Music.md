@@ -1,6 +1,12 @@
 # Music
 
 * 2026 Infinite Viability (En&amp;Ru) https://suno.com/playlist/c9a1c39d-1488-4303-80c9-0dd298bcd6d4
+
+## TOC
+
+* Prompt
+* En Lyrics
+* Ru Lyrics
  
 ## Prompt
  
@@ -12,7 +18,7 @@
 [Mood: intellectually intense, visionary, scientific, cosmic, relentless, hopeful, awe-inspiring, emotionally overwhelming.]
 [Production: pristine modern mix, enormous dynamics, extreme instrument separation, cinematic width, audiophile quality.]
 
-## En
+## En Lyrics
 
 **Infinite Viability**
 
@@ -88,7 +94,7 @@ Forever evolving.
 
 Forever alive.
 
-## Ru
+## Ru Lyrics
 
 **Бесконечная жизнеспособность**
 
