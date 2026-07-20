@@ -5,10 +5,6 @@ title: E.G.Philippov's website (knowledge vault)
 А здесь будем постепенно ваять нетленку.
 
 ```
-├── Tamarisk Project
-├── ProgressAction
-├── BOS
-├── PostBostromStack
 ├── Music
 ├── Essays
 ├── Science
@@ -19,12 +15,15 @@ Universe
     Entropy
     Dyson
     Black Holes
+```
 
-Projects
-    Tamarisk
-    ProgressAction
-    BOS
+## Projects
+- [[Tamarisk]] &mdash; Infinite time scale bio-survival (macro level)
+- [[ProgressAction]] &mdash; XXI-century time scale bio-survival (mesa level)
+- [[BiosphereOS]] &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
+- [[PostBostromStack]] &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by N Bostrom
 
+```
 Math
 Physics
 AI
@@ -84,5 +83,7 @@ HowToContinue.md
 
 Такой подход превращает репозиторий не просто в архив, а в проект, который потенциально может продолжить кто-то другой.
 ```
+
+[[Music]]
 
 See the [Quartz documentation](https://quartz.jzhao.xyz).
