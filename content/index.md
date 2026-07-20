@@ -21,8 +21,8 @@ Universe
 ## Projects
 - [Tamarisk](projects/tamarisk) &mdash; Infinite time scale bio-survival (macro level)
 - [[ProgressAction]] &mdash; XXI-century time scale bio-survival (mesa level)
-- [[BiosphereOS]] &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
-- [[PostBostromStack]] &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by N Bostrom
+- [BiosphereOS](projects/biosphereos) &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
+- [PostBostromStack](projects/postbostromstack) &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by Nick Bostrom
 - [[GoodWorlds]] &mdash; on kind civilization
 
 ```
