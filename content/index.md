@@ -4,6 +4,8 @@ title: E.G.Philippov's website (knowledge vault)
 
 А здесь будем постепенно ваять нетленку.
 
+<blockquote>...Открылся вулкан в Заельцовском районе. Что вы смеётесь! Надо спасаться! /КБрД НГУ/</blockquote>
+
 ```
 ├── Essays
 ├── Science
