@@ -19,7 +19,7 @@ Universe
 ```
 
 ## Projects
-- [[DevLog]] &mdash; Developer's notes blogowiki
+- [DevLog](DevLog) &mdash; Developer's notes blogowiki
 - [Tamarisk](projects/tamarisk) &mdash; Infinite time scale biosurvival (macro level)
 - [[ProgressAction]] &mdash; XXI-century time scale biosurvival (mesa level)
 - [BOS (BiosphereOS)](projects/biosphereos) &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
