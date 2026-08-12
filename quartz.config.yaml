@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: E.G.Philippov's website (knowledge vault)
+  pageTitle: E.G.Philippov's website (devlog & knowledge vault)
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

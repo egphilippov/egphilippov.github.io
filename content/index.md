@@ -1,8 +1,8 @@
 ---
-title: E.G.Philippov's website (knowledge vault)
+title: E.G.Philippov's website (devlog & knowledge vault)
 ---
 
-А здесь будем постепенно ваять нетленку.
+Deprecated: "А здесь будем постепенно ваять нетленку."
 
 <blockquote>...Открылся вулкан в Заельцовском районе. Что вы смеётесь! Надо спасаться! /КБрД НГУ/</blockquote>
 
@@ -19,6 +19,7 @@ Universe
 ```
 
 ## Projects
+- [[DevLog]] &mdash; Developer's notes blogowiki
 - [Tamarisk](projects/tamarisk) &mdash; Infinite time scale biosurvival (macro level)
 - [[ProgressAction]] &mdash; XXI-century time scale biosurvival (mesa level)
 - [BOS (BiosphereOS)](projects/biosphereos) &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
