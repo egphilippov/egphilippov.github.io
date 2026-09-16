@@ -25,7 +25,7 @@ Universe
 - [BOS (BiosphereOS)](projects/biosphereos) &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
 - [PBS (PostBostromStack)](projects/postbostromstack) &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by Nick Bostrom
 - [[GoodWorlds]] &mdash; on kind civilization
-
+- [SHRDLU II](projects/ShrdluII) &mdash; SHRDLU II — a 2026+ modern symbolic substrate for AI agents. From blocks world to modern world models.
 ```
 Math
 Physics
