@@ -1,3 +1,6 @@
+
+Ref: https://github.com/shrdlu-ii/shrdlu-ii
+
 # как превратить написание ИИ-автоматического программиста и common use-агента на sheafs theory/HoTT из изобретательского процесса в ремесленную рутину в плане Гурджиевского Труда?
 
 Да. И я бы здесь разделил **изобретательство** и **Труд** довольно жёстко.
@@ -1127,4 +1130,36 @@ revert semantic commit
 Тогда Git превращается из обычной dev-tool в **журнал эпистемической эволюции машины**.
 
 И это очень хорошо сочетается с твоей исходной идеей: **LLM может быть генератором гипотез, но память SHRDLU II состоит только из версионируемых, provenance-bearing, проверенных изменений.** 🛠️
+
+# Knowledge VCS
+
+[SHRDLU II Knodlegge VCS](skv.md) - A subsection
+
+# отставим пока версионирование в сторону
+
+Да, разумно. **VCS сейчас — архитектурная вкусняшка, но не первый кирпич.** 😄
+
+Я бы зафиксировал текущий scope SHRDLU II:
+
+```text
+1. SHRDLU-inspired symbolic core
+2. explicit world model
+3. explicit dialogue model
+4. symbolic inference
+5. planning / execution
+6. modern portable implementation
+7. tests + examples
+8. потом — formalization
+9. потом — LLM adapter
+10. потом — knowledge evolution / VCS
+```
+
+Первый milestone вообще скучный:
+
+> **Запустить современный SHRDLU II, который понимает небольшой мир, ведёт диалог, строит символическое состояние и выполняет действия.**
+
+Пока не надо решать, как он будет становиться AGI, как версионировать знания и как прикручивать HoTT.
+
+**Сначала сделать работающую машину.** 🛠️
+
 
