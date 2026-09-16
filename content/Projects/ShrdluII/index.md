@@ -1133,7 +1133,7 @@ revert semantic commit
 
 # Knowledge VCS
 
-[SHRDLU II Knodlegge VCS](skv.md) - A subsection
+[SHRDLU II Knowledge VCS](skv.md) - A subsection
 
 # отставим пока версионирование в сторону
 
