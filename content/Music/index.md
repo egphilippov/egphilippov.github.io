@@ -41,3 +41,115 @@ Source code (Prompt, lyrics En&amp;Ru): [[InfiniteViability]].
 </audio>
 
 Source code (Prompt, lyrics Ru): [[KnotOfInfinity]].
+
+### 2026 What to invent (Ru)
+
+<audio controls>
+  <source src="https://github.com/egphilippov/egphilippov.github.io/raw/refs/heads/v5/content/Music/Audiofiles/What-to-invent-v30.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+https://suno.com/song/965afeef-daab-41d1-834d-c10316d05872
+
+#### 2026 What to invent &mdash; Styles prompt (by ChatGPT edited by myself -egp)
+
+quality encyclopaedic, extremely complex unpredictable polyrythmic sky symphony, acid, cinematic funk, art, progressive electronic, emotional orchestral, ethereal female vocals, crisp multitone male vocals, massive choir, unpredictable harmony, memorable hook, bittersweet, hopeful ending, festival anthem, philosophical, futuristic, organic textures, analogue synths, wide dynamics, timeless hit
+
+#### 2026 What to invent &mdash; Lyrics (by ChatGPT via my contexts -egp)
+
+**Verse 1**
+
+Сквозь бетон прорастает трава,
+Будто знает пароль от камней.
+Мир устал объяснять,
+Почему боль считается нормой вещей.
+
+На заводах рождается шум,
+Но не каждый шум — это жизнь.
+Я ищу не ответ,
+Я ищу невозможный эскиз.
+
+**Pre-Chorus**
+
+Что бы изобрести,
+Чтобы утро
+Не казалось приговором?
+
+Что бы изобрести,
+Чтобы завтра
+Не боялось слова «завтра»?
+
+**Chorus**
+
+Не ещё одну машину.
+
+Не ещё один рынок.
+
+Не ещё одну империю
+Из стекла и цифр.
+
+Изобрести мир,
+Где сильнее становится жизнь.
+
+Где никто
+Не рождается лишним.
+
+Где будущее
+Не просит разрешения существовать.
+
+**Verse 2**
+
+Где-то птица не знает,
+Что конвейер уже запущен.
+
+Где-то ребёнок рисует
+Дерево,
+Которое переживёт город.
+
+Где-то музыка
+Собирает обратно
+То,
+Что невозможно склеить словами.
+
+**Bridge**
+
+Если надежда —
+Это технология,
+
+То пусть её
+Наконец откроют.
+
+Если любовь —
+Это физика,
+
+Пусть она
+Станет новой константой.
+
+Если цивилизация —
+Это инженерный проект,
+
+То главным KPI
+Пусть станет
+
+Не прибыль.
+
+А количество спасённых жизней.
+
+**Final Chorus**
+
+Что бы изобрести,
+Чтобы жизнь
+Перестала быть случайностью?
+
+Что бы изобрести,
+Чтобы слово
+«Будущее»
+Перестало звучать как фантастика?
+
+Мы ещё не нашли ответ.
+
+Но пока
+Кто-то продолжает искать —
+
+Песня
+Ещё не закончилась.
