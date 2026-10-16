@@ -1,5 +1,5 @@
 ---
-title: E.G.Philippov's website (devlog & knowledge vault)
+title: E.G.Philippov's Macropoiesis website (devlog & knowledge vault)
 ---
 
 Deprecated?: "А здесь будем постепенно ваять нетленку."
