@@ -2,9 +2,7 @@
 title: E.G.Philippov's website (devlog & knowledge vault)
 ---
 
-Deprecated: "А здесь будем постепенно ваять нетленку."
-
-<blockquote>...Открылся вулкан в Заельцовском районе. Что вы смеётесь! Надо спасаться! /КБрД НГУ/</blockquote>
+Deprecated?: "А здесь будем постепенно ваять нетленку."
 
 <ul>
 <li> <a href=About.md>About</a>
@@ -31,7 +29,7 @@ Deprecated: "А здесь будем постепенно ваять нетле
 
 ## Projects
 - [DevLog](DevLog) &mdash; Developer's notes blogowiki
-- [Tamarisk](Projects/Tamarisk) &mdash; Infinite time scale biosurvival (macro level)
+- [Tamarisk](Projects/Tamarisk) &mdash; Infinite time scale biosurvival (macro level): "...Открылся вулкан в Заельцовском районе. Что вы смеётесь! Надо спасаться!" /КБрД НГУ/
 - [[ProgressAction]] &mdash; XXI-century time scale biosurvival (mesa level)
 - [BOS (BiosphereOS)](Projects/biosphereos) &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
 - [PBS (PostBostromStack)](Projects/postbostromstack) &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by Nick Bostrom
