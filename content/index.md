@@ -25,6 +25,7 @@ Deprecated?: "А здесь будем постепенно ваять нетл�
 <li> Economics
 <li> Manifestos
 <li> Archive
+<li> <a href=Feedback.md>Feedback link</a>
 </ul>
 
 ## Projects
