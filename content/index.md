@@ -6,43 +6,41 @@ Deprecated: "А здесь будем постепенно ваять нетле
 
 <blockquote>...Открылся вулкан в Заельцовском районе. Что вы смеётесь! Надо спасаться! /КБрД НГУ/</blockquote>
 
-```
-├── Essays
-├── Science
-├── Archive
-└── About
-Universe
-    Heat Death
-    Entropy
-    Dyson
-    Black Holes
-```
+<ul>
+<li> <a href=About.md>About</a>
+<li> Essays
+<li> Science
+<ul><li>Math
+<li>Physics
+  <ul><li>Universe / Cosmology
+    <ul>
+    <li>Heat Death
+    <li>Entropy
+    <li>Dyson
+    <li>Black Holes
+    </ul>
+  </ul>
+<li> Biology
+<li> Intelligence / Psychometry
+</ul>
+<li> AI
+<li> Economics
+<li> Archive
+<li> Manifestos
+</ul>
 
 ## Projects
 - [DevLog](DevLog) &mdash; Developer's notes blogowiki
-- [Tamarisk](projects/tamarisk) &mdash; Infinite time scale biosurvival (macro level)
+- [Tamarisk](Projects/Tamarisk) &mdash; Infinite time scale biosurvival (macro level)
 - [[ProgressAction]] &mdash; XXI-century time scale biosurvival (mesa level)
-- [BOS (BiosphereOS)](projects/biosphereos) &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
-- [PBS (PostBostromStack)](projects/postbostromstack) &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by Nick Bostrom
+- [BOS (BiosphereOS)](Projects/biosphereos) &mdash; Part of Tamarisk Project &mdash; Planetary-scale &amp; Universe-scale Biosphere observability
+- [PBS (PostBostromStack)](Projects/postbostromstack) &mdash; Part of Tamarisk Project &mdash; Engineering approaches to prevention of existential risks described by Nick Bostrom
 - [[GoodWorlds]] &mdash; on kind civilization
-- [SHRDLU II](projects/ShrdluII) &mdash; SHRDLU II — a 2026+ modern symbolic substrate for AI agents. From blocks world to modern world models.
+- [SHRDLU II](Projects/ShrdluII) &mdash; SHRDLU II — a 2026+ modern symbolic substrate for AI agents. From blocks world to modern world models.
+- [AdequacyWayEngine](Projects/AdequacyWayEngine) &mdash; AdequacyWayEngine: a paradigm for a new era of software development &amp; maintenance.
 ```
-Math
-Physics
-AI
-Economics
 
-Manifestos
 knowledge/
-
-projects/
-    tamarisk/
-    progressaction/
-
-science/
-    cosmology/
-    biology/
-    intelligence/
 
 philosophy/
 engineering/
@@ -51,14 +49,14 @@ music/
 ├── Mathematics
 ├── Philosophy
 ├── Engineering
-├── Music
+├── Miscellany (Not Yet Sorted)
 └── Archive
 ```
 ## Этап 4. Канонический документ
 
 Сделать один файл:
 
-START_HERE.md
+[START_HERE.md](About.md) AKA [About.md]
 
 В нем буквально:
 
@@ -70,9 +68,9 @@ START_HERE.md
 
 Если кто-то откроет репозиторий через 20 лет, он сможет быстро понять общую картину.
 
-```
 Legacy/
 
+```
 Vision.md
 Manifesto.md
 Roadmap.md
