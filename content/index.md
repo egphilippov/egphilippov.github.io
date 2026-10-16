@@ -87,5 +87,5 @@ HowToContinue.md
 ## "Powered by" Section
 
 <ul>
-<li>[Quartz documentation](https://quartz.jzhao.xyz).
+<li><a href=https://quartz.jzhao.xyz target=_blank>Quartz documentation</a>.
 </ul>
