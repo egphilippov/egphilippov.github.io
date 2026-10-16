@@ -23,8 +23,8 @@ Deprecated?: "А здесь будем постепенно ваять нетл�
 </ul>
 <li> AI
 <li> Economics
-<li> Archive
 <li> Manifestos
+<li> Archive
 </ul>
 
 ## Projects
