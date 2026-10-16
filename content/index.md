@@ -84,4 +84,8 @@ HowToContinue.md
 
 [[Music]]
 
-See the [Quartz documentation](https://quartz.jzhao.xyz).
+## "Powered by" Section
+
+<ul>
+<li>[Quartz documentation](https://quartz.jzhao.xyz).
+</ul>
