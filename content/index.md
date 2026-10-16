@@ -56,7 +56,7 @@ music/
 
 Сделать один файл:
 
-[START_HERE.md](About.md) AKA [About.md]
+[START_HERE.md](About.md) AKA [About.md](About.md)
 
 В нем буквально:
 
@@ -68,9 +68,9 @@ music/
 
 Если кто-то откроет репозиторий через 20 лет, он сможет быстро понять общую картину.
 
+```
 Legacy/
 
-```
 Vision.md
 Manifesto.md
 Roadmap.md
