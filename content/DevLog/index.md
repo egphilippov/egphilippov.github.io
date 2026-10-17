@@ -10,4 +10,4 @@
 
 ## 2026-10-17
 
-I want a multi-agent app with agents UX like cursor ai, but opensource MIT licensed. Мне вот хочется мультиагентную приблуду с агентным UX как у курсора, но опенсорс MIT licensed...
+I want a multi-agent app with agents UX like cursor ai, but opensource MIT licensed. Here's a place for myself to start: https://github.com/fossaifrog/fossaifrog
