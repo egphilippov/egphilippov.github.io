@@ -1,6 +1,6 @@
 # Tamarisk Project
 
-(The was composed with help of ChatGPT and other LLM systems.)
+(This was composed with help of ChatGPT and other LLM systems.)
 
 ## Three Research and Engineering Problems
 
