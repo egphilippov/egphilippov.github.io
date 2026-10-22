@@ -1,6 +1,66 @@
-<a target="_blank" href="InfiniteViability.png"><img src="InfiniteViability.png" width="100%"></a>
-
 # Tamarisk Project
+
+(The was composed with help of ChatGPT and other LLM systems.)
+
+## Three Research and Engineering Problems
+
+### 1. Physical Possibility: Can Complexity Persist Indefinitely?
+
+**Research question:** Under what physical conditions can processes that sustain complexity, information, and organized structures continue indefinitely?
+
+This problem concerns the fundamental limits imposed by cosmology and thermodynamics. It includes the long-term availability of free energy, the fate of the Universe, the thermodynamic costs of computation, and the possibility of physical processes that could support the indefinite persistence of complex systems.
+
+The goal is to identify which cosmological models and physical assumptions permit indefinitely sustained complexity, which rule it out, and which leave the question open.
+
+**Key disciplines:** Cosmology, thermodynamics, statistical mechanics, information physics, quantum foundations.
+
+### 2. Biological Possibility: Can Life Persist and Evolve Indefinitely?
+
+**Research question:** Under what minimal physical, chemical, and ecological conditions can life sustain itself and continue evolving over an infinite span of time?
+
+This problem concerns the long-term viability of living systems. It includes the resilience of ecosystems, the maintenance of biodiversity, the emergence of new forms of life, the prevention of irreversible ecological collapse, and the capacity of life to adapt to changing environments.
+
+The question extends beyond the survival of individual organisms or species. It concerns whether life, considered as an evolving process, can persist indefinitely through the transformation, replacement, and diversification of its constituent systems.
+
+A central distinction is between the indefinite survival of a particular living system and the indefinite continuation of life through open-ended evolution.
+
+**Key disciplines:** Evolutionary biology, systems biology, ecology, origin-of-life research, artificial life, complex systems science.
+
+### 3. Engineering Possibility: What Must We Build to Improve the Long-Term Viability of the Biosphere?
+
+**Research question:** What systems, institutions, technologies, and decision-making processes can increase the probability that the biosphere will remain viable over the longest possible timescales?
+
+This is the practical problem: translating scientific knowledge into systems that help life persist, adapt, and evolve.
+
+It includes developing methods for monitoring ecological conditions, detecting emerging threats, preventing or correcting systemic failures, preserving biological and cultural diversity, and coordinating action across scales. It also concerns the design of institutions and technologies that remain effective under increasing complexity, uncertainty, and environmental change.
+
+A useful engineering principle is to make error detection and correction more powerful than the generation of new errors. Systems should not merely avoid known failures; they should be capable of detecting unforeseen problems, learning from them, and adapting without undermining the conditions required for their own continued operation.
+
+The objective is not to design a supposedly perfect, static system. It is to create self-maintaining and self-improving structures that support the continued viability of the biosphere.
+
+**Key disciplines:** Control theory, systems engineering, resilience engineering, ecological restoration, AI for science, governance, economics, and distributed decision-making.
+
+---
+
+## How the Three Problems Relate
+
+These problems form a hierarchy of constraints and objectives:
+
+1. **Physics establishes the limits:** What is possible in principle?
+2. **Biology investigates the possibilities for life:** Under what conditions can life persist and evolve?
+3. **Engineering acts within those constraints:** What can we build to improve the prospects for long-term biological viability?
+
+The three problems are related but not interchangeable. Engineering cannot overcome a fundamental physical impossibility, and physical possibility alone does not guarantee biological viability. Likewise, the indefinite persistence of life does not follow automatically from the survival of any particular ecosystem, species, civilization, or technology.
+
+The overall research objective is to connect these levels: from fundamental physical constraints to the dynamics of living systems and, ultimately, to practical methods for improving the long-term viability of the biosphere.
+
+**Important qualification:** Indefinite viability is a research objective, not an established scientific possibility. The purpose of this framework is to identify the assumptions, mechanisms, limitations, and interventions relevant to that objective, while distinguishing demonstrated results from hypotheses and speculation.
+
+
+# Previous stuff
+
+
+<a target="_blank" href="InfiniteViability.png"><img src="InfiniteViability.png" width="100%"></a>
 
 Проект исследования возможности бесконечно долгоживущих
 цивилизационных систем.
