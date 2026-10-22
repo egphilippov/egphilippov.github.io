@@ -1,3 +1,8 @@
+<blockquote>
+«AdequacyWayEngine обеспечивает адекватность программных систем».<br/>
+— Якобы.
+</blockquote>
+
 <ol>
 <li> Vision
 <li> Mathematical Foundations
